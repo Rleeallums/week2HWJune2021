@@ -17,7 +17,7 @@ For a challenge, try implementing any or all of the bullets below
 - Automate your js carousel with setTimeout, and make it move forwards then backwards once it renders the last image on the screen (see video)
 
 #### Reference
-- [Intro to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+- [Intro to Events](https://developer.mozilla.org/enx-US/docs/Learn/JavaScript/Building_blocks/Events)
 - [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 - [Events and the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)
 - [DOM style transform](https://www.w3schools.com/jsref/prop_style_transform.asp)
