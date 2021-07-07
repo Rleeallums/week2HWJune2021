@@ -1,17 +1,17 @@
-let position = 0;
+let position = -000;
     
-        const nextSlide = function () { 
-            const nextSlide = document.getElementById('nextSlide');
+    const nextSlide = function () { 
+        const nextSlide = document.getElementById('nextSlide');
         
-            position -= 200; 
+        position -= 200; 
             
-            nextSlide.style.transform = `translateX(${position}px)`;
-        }; 
+        nextSlide.style.transform = `translateX(${position}px)`;
+    }; 
         
-        const previousSlide = function () {
-            const previousSlide = document.getElementById('previousSlide');
+    const previousSlide = function () {
+        const previousSlide = document.getElementById('previousSlide');
         
-            position += 200;
+        position += 200;
             
-            previousSlide.style.transform = `translateX(${position}px)`;
-        };
+        previousSlide.style.transform = `translateX(${position}px)`;
+    };
